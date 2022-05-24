@@ -69,8 +69,8 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: EASWAR.J
-RegisterNumber: 212221230024
+Developed by: vetrivel s
+RegisterNumber: 212221240060
 UP COUNTER:-
 
 
